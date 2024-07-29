@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinesh14092002/sudukoo/static/css/main.b0d2d373.css",
+    "main.js": "/dinesh14092002/sudukoo/static/js/main.a1b84e75.js",
+    "static/js/787.b4271c4e.chunk.js": "/dinesh14092002/sudukoo/static/js/787.b4271c4e.chunk.js",
+    "index.html": "/dinesh14092002/sudukoo/index.html",
+    "main.b0d2d373.css.map": "/dinesh14092002/sudukoo/static/css/main.b0d2d373.css.map",
+    "main.a1b84e75.js.map": "/dinesh14092002/sudukoo/static/js/main.a1b84e75.js.map",
+    "787.b4271c4e.chunk.js.map": "/dinesh14092002/sudukoo/static/js/787.b4271c4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0d2d373.css",
+    "static/js/main.a1b84e75.js"
+  ]
+}
